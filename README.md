@@ -1,3 +1,13 @@
+Members:
+- Stephen McNally
+- Willsmaith Pochette
+- Youmeng Hin
+- Adam Alti
+- Brandon Chu
+- Dhir Patel
+- Jacob Lettick
+- William Boafo
+- Ayodele Odeseye
 planning for challenge lab team 2
 
 use requests libray for api request 
