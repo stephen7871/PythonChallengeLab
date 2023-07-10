@@ -8,6 +8,7 @@ Members:
 - Jacob Lettick
 - William Boafo
 - Ayodele Odeseye
+
 planning for challenge lab team 2
 
 use requests libray for api request 
